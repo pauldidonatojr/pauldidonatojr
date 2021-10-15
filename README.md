@@ -1,7 +1,4 @@
--Hello, my name is PJ.
--I’m interested in javascript, html, css
--I’m currently learning sass, react, node, tailwind, bootstrap4
--I’m looking to collaborate on websites, web applications, frontend developing
+My name is Paul I code mostly in Javascript. When I code frontend I will use React, Bootstrap, CSS3, CSS Frameworks(SASS, LESS, TAILWIND). If I am working on a backend I will be using node.js or php. I have knowledge of operating systems and computer hardware. I like to design frontend UI's. I am currently learning about blockchain by programming in solidity.  
  
 
 
